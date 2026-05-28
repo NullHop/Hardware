@@ -14,6 +14,10 @@
 * **pyMC Repeater:** Meshcore repeater package for multiple OS's
   * **Setup Information:** [https://github.com/pyMC-dev/pyMC_Repeater](https://github.com/pyMC-dev/pyMC_Repeater)
 
+## Purchase
+
+[**Exclusivly Avalible at Muzi Works**](https://muzi.works/products/nullhop-meshtoad-v3)
+
 ## License
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
